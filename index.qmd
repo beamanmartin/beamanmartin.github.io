@@ -1,0 +1,26 @@
+---
+title: "Beaman Martin"
+image: IMG_8804.jpg
+about: 
+  template: marquee
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/beamanmartin/
+    - text: Email
+      href: mailto:beaman.martin@colostate.edu
+---
+
+**Organization**: USDA Agricultural Research Service
+
+**Title**: Laboratory Technician
+
+**Role**: Soil Sampling and GHG Measurement
+
+**Experience**: 3 Seasons in Colorado
+
+**Favorite Crop**: Winter Wheat
+---
+
+

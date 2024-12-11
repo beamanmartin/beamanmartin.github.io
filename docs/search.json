@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me I like growing food and healthy soil."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Phone Number: 210-687-2012"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Beaman Martin",
+    "section": "",
+    "text": "Organization: USDA Agricultural Research Service\nTitle: Laboratory Technician\nRole: Soil Sampling and GHG Measurement\nExperience: 3 Seasons in Colorado\nFavorite Crop: Winter Wheat"
+  }
+]
